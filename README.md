@@ -1,7 +1,7 @@
 Hello! This is the first time I've ever tried to do anything with Shortcuts. The problem statement, as I understood it, was this:
 
 ## Problem
-> Run the contents of a browser bookmarklet from an RSS reader without manually propagating data from the app to Safari.
+> Run the contents of a browser bookmarklet from an iOS RSS reader without manually propagating data from the app to Safari.
 
 ## Solution
 The pieces I've assembled that I _think_ achieve this require these iOS apps:
