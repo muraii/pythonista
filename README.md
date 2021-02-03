@@ -40,3 +40,4 @@ Both Pythonista and Scriptable provide pretty good documentation available withi
 * [Scriptable.app documentation](https://docs.scriptable.app/)
 * [Scriptable forum](https://talk.automators.fm/c/scriptable/13)
 * ["Run a shortcut using a URL scheme - Apple Support"](https://support.apple.com/en-vn/guide/shortcuts/apd624386f42/ios)
+* ["Building An iOS 'App' With 30 Lines of Javascript"](https://recurrence.app/blog/building-ios-app)
