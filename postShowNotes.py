@@ -27,4 +27,4 @@ shortcut_input = 'text&text=drep'
 run_url = f'{run_url_base}{shortcut_name}&input={shortcut_input}'
 
 # POST data
-webbrowser.open(run_url))
+webbrowser.open(run_url)
