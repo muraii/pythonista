@@ -33,10 +33,10 @@ Also the JavaScript is garbage because I don't know from JavaScript.
 ## Documentation
 Both Pythonista and Scriptable provide pretty good documentation available within the apps. I found it a little easier to navigate in a desktop browser, but I'm not real bright, y'all. Here is a list of resources.
 
-[Pythonista](http://omz-software.com/pythonista/)
-[Pythonista documentation](http://omz-software.com/pythonista/docs/)
-[Pythonista forum](https://forum.omz-software.com/category/5/pythonista)
-[Scriptable.app](https://scriptable.app/)
-[Scriptable.app documentation](https://docs.scriptable.app/)
-[Scriptable forum](https://talk.automators.fm/c/scriptable/13)
-["Run a shortcut using a URL scheme - Apple Support"](https://support.apple.com/en-vn/guide/shortcuts/apd624386f42/ios)
+* [Pythonista](http://omz-software.com/pythonista/)
+* [Pythonista documentation](http://omz-software.com/pythonista/docs/)
+* [Pythonista forum](https://forum.omz-software.com/category/5/pythonista)
+* [Scriptable.app](https://scriptable.app/)
+* [Scriptable.app documentation](https://docs.scriptable.app/)
+* [Scriptable forum](https://talk.automators.fm/c/scriptable/13)
+* ["Run a shortcut using a URL scheme - Apple Support"](https://support.apple.com/en-vn/guide/shortcuts/apd624386f42/ios)
