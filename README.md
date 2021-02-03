@@ -18,6 +18,6 @@ In a nutshell, here's the flow:
 3. In Pythonista, go to `Settings / Share Extension / Shortcuts` and add the script you created in the step above.
 4. Tap the link above to the Shortcut and add to Shortcuts.
 5. Open Newsly and find a story worth sharing.
-6. Open the Share Sheet and choose `Run Pythonista Script". Choose the Python script you created above.
+6. Open the Share Sheet and choose `Run Pythonista Script`. Choose the Python script you created above.
 
 With any luck I haven't skipped any steps or settings and everything is flawless. If not, feel free to file an issue.
